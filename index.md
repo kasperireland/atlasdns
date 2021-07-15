@@ -11,4 +11,9 @@ The official AtlasDNS website is [https://atlasdns.uk.to](https://atlasdns.uk.to
 
 The only issue is, projects like AtlasDNS are not free to run. They cost money and we spend our time working on things like AtlasDNS. We need to pay for things like a virtual server to host the DNS System, an order system, a domain name, and more. **If you would like to perhaps see AtlasDNS become a reality, please consider donating a small amount of money to Swivro, even as low as $5\.** You might think we would have said "as low as $1" but with the new PayPal Fee's paypal would take well over 50% of that $1, so we would only receive around $0.40, whereas if you donate a small amount of $5, we would receive around $4.45\. If you would like to donate, there is a button below to do so. Thank you for considering donating, and have a great day :)
 
-[Donate](https://www.paypal.com/donate?hosted_button_id=MBSGS9FFWADWJ).
+[Donate](https://www.paypal.com/donate?hosted_button_id=MBSGS9FFWADWJ)
+
+
+
+
+(official article: [https://swivro.net/introducing-atlasdns-first-we-need-your-help](https://swivro.net/introducing-atlasdns-first-we-need-your-help))
