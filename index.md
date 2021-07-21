@@ -1,5 +1,5 @@
 
-## Official AtlasDNS Website
+## AtlasDNS Website
 
 AtlasDNS would be a free privacy-oriented secure DNS Hosting platform. You could manage your domain name's DNS Records using AtlasDNS. AtlasDNS would be a great alternative to ClouDNS, Namecheap's FreeDNS Program, Duck DNS, NO-IP, and even CloudFlare.
 
